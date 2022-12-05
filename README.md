@@ -1,2 +1,2 @@
-# Passanger-Counter-App
+# Passenger-Counter-App
 JavaScript CodeCamp Tutorial
